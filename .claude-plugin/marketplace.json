@@ -1,0 +1,19 @@
+{
+  "name": "autoral",
+  "owner": {
+    "name": "autoral.me",
+    "url": "https://autoral.me"
+  },
+  "metadata": {
+    "description": "Plugins oficiais da autoral.me para Claude Code."
+  },
+  "plugins": [
+    {
+      "name": "autoral-api",
+      "source": "./",
+      "description": "Integra projetos com a API REST pública da autoral.me (alunos, matrículas, leads, pagamentos, quizzes, páginas, webhooks).",
+      "version": "1.0.0",
+      "category": "integrations"
+    }
+  ]
+}

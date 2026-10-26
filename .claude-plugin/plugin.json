@@ -1,0 +1,12 @@
+{
+  "name": "autoral-api",
+  "version": "1.0.0",
+  "description": "Skill para integrar projetos com a API REST pública da autoral.me: alunos, matrículas, leads, cupons, produtos, ofertas, pagamentos, assinaturas, quizzes de venda, páginas, mídia e webhooks.",
+  "author": {
+    "name": "autoral.me",
+    "url": "https://autoral.me"
+  },
+  "homepage": "https://github.com/autoral-video/ia-api-skill",
+  "repository": "https://github.com/autoral-video/ia-api-skill",
+  "keywords": ["autoral", "autoral.me", "api", "cursos", "lms", "webhooks", "pt-br"]
+}
